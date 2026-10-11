@@ -1,0 +1,20 @@
+{
+  "average_precision": 0.04340010041311888,
+  "precision_at_0_5": 0.024,
+  "recall_at_0_5": 0.06521739130434782,
+  "f1_at_0_5": 0.03508771929824561,
+  "confusion_matrix": [
+    [
+      2102,
+      122
+    ],
+    [
+      43,
+      3
+    ]
+  ],
+  "train_rows": 9539,
+  "validation_rows": 2270,
+  "train_fraud_rate": 0.010378446378027047,
+  "validation_fraud_rate": 0.02026431718061674
+}

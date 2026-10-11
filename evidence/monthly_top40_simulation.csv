@@ -1,0 +1,4 @@
+month,claims_available,claims_reviewed,frauds_found,fraud_recall_in_month,fraud_amount_identified_inr,precision_at_40,random_baseline_expected_frauds
+2026-04,750,40,3,0.3333333333333333,17060.0,0.075,0.48
+2026-05,753,40,0,0.0,0.0,0.0,0.796812749003984
+2026-06,767,40,0,0.0,0.0,0.0,1.1473272490221642
